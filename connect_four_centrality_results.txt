@@ -1,0 +1,3 @@
+Average Degree Centrality for Player R: 7.737870702475717
+Average Degree Centrality for Player B: 7.682287032460044
+Average Degree Centrality for Tie: 0

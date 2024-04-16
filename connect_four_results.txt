@@ -1,0 +1,5 @@
+Player R wins: 7
+Player B wins: 1
+Ties: 2
+Avg No. of moves: 23.9
+Avg Degree Centrality: 0.08447204968944091
